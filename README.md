@@ -1,1 +1,1 @@
-# Estudo-sobre-sensro-RGB
+# Estudo-sobre-sensor-RGB
